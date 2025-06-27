@@ -34,7 +34,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftsqlserver.svg" alt="MSSQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" alt="Postman" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>
 </p>
 
