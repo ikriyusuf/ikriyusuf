@@ -55,15 +55,6 @@ Frontend öğreniyorum çünkü iyi tasarlanmış bir API'ın gerçekten değer 
 
 ---
 
-### 📊 GitHub İstatistikleri
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ikriyusuf&show_icons=true&theme=radical&hide_border=true&count_private=true&locale=tr" alt="Yusuf'un GitHub İstatistikleri" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikriyusuf&layout=compact&theme=radical&hide_border=true&locale=tr" alt="En Çok Kullanılan Diller" height="150" />
-</div>
-
-<br />
-
 <p align="center">
   <b>"Sadece kod yazmıyorum. Çözüm üretiyorum."</b>
 </p>
