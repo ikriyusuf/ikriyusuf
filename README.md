@@ -1,4 +1,4 @@
-<h1 align="center">Selam, Ben Yusuf İkri 👋</h1>
+<h1 align="center">Selam, Ben Yusuf İKRİ 👋</h1>
 
 <h3 align="center">
   Yazılım Mühendisi | Yapay Zekâ & Görüntü İşleme Tutkunu | Full Stack Geliştirici
